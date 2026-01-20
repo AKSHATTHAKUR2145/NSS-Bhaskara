@@ -245,6 +245,7 @@ export default function App() {
             <li><Link to="/team">Team</Link></li>
             <li><Link to="/">Events</Link></li>
             <li><Link to="/team">Contact</Link></li>
+            <li> <a href="https://www.instagram.com/teambhaskara/" target="_blank" rel="noopener noreferrer" > <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#e0f2fe" strokeWidth="2"> <rect x="2" y="2" width="20" height="20" rx="5" ry="5" /> <path d="M16 11.37a4 4 0 1 1-7.87 1.18 4 4 0 0 1 7.87-1.18z" /> <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" /> </svg> </a> </li>
           </ul>
         </nav>
 
